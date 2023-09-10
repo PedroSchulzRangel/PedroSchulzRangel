@@ -10,7 +10,7 @@
   
 -  My main interest is tackling challenging problems
   
--  From the moment I learned how to programm in my first languages (C/C++, Matlab and VBA) at university, I applied my knowledge to solve a real problem during my internship at Mineral Technology Center of Rio de Janeiro (2019-2021).
+-  From the moment I learned how to program in my first languages (C/C++, Matlab and VBA) at university, I applied my knowledge to solve a real problem during my internship at Mineral Technology Center of Rio de Janeiro (2019-2021).
   
 - The problem was that a specific task (image processing and analysis) was taking too long (over 3 hours) to be performed within the project. I came up with the idea of creating algorithms in a Java based software (ImageJ) to automate the image processing steps. The result was that after using the algorithms I developed myself, the processing of several images took less than 20 minutes to be performed.
   
