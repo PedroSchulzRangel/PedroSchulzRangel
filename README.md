@@ -19,36 +19,36 @@
 -  Are you interested in more details of my academic background? Please contact me on [LinkedIn](https://www.linkedin.com/in/pedro-schulz-rangel/) or send an email to psrangel5002@hotmail.com. I will be pleased to answer your questions.
 
 #### I am currently learning these technologies
-![image]({https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white})
-![image]({{https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white})
+![image]({https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=black})
+![image]({{https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=black})
 
 ### I've learned these technologies
-![image]({https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white})
-<img scr="{https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white}"/>
-<img scr="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}"/>
-<img scr="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}"/>
+![image]({https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=black})
+<img scr="{https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black}"/>
+<img scr="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black}"/>
+<img scr="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black}"/>
 <img scr="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}"/>
-<img src="{https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white}"/>
-<img src="{https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white}"/>
-<img src="{https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white}"/>
-<img src="{https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white}"/>
-<img src="{https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white}"/>
-<img src="{https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white}"/>
-<img src="{https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white}"/>
-<img src="{https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white}"/>
-<img src="{https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white}"/>
-<img src="{https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white}"/>
-<img src="{https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white}"/>
-<img src="{https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white}"/>
-<img src="{https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white}"/>
-<img src="{https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white}"/>
+<img src="{https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black}"/>
+<img src="{https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=black}"/>
+<img src="{https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=black}"/>
+<img src="{https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black}"/>
+<img src="{https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=black}"/>
+<img src="{https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=black}"/>
+<img src="{https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=black}"/>
+<img src="{https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=black}"/>
+<img src="{https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=black}"/>
+<img src="{https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=black}"/>
+<img src="{https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=black}"/>
+<img src="{https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=black}"/>
+<img src="{https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=black}"/>
+<img src="{https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black}"/>
 <img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}"/>
-<img src="{https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white}"/>
-<img src="{https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white}"/>
-<img src="{https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white}"/>
+<img src="{https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=black}"/>
+<img src="{https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black}"/>
+<img src="{https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=black}"/>
 
 ### My GitHub stats
 
-<img src="{https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={PedroSchulzRangel}}"/>
+<img src="{https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={PedroSchulzRangel}&theme={dark}}"/>
 
-<img scr="{https://github-readme-stats.vercel.app/api/top-langs/?username={PedroSchulzRangel}}"/>
+<img scr="{https://github-readme-stats.vercel.app/api/top-langs/?username={PedroSchulzRangel}&theme={dark}}"/>
