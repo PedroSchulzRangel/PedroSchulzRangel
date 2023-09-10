@@ -28,5 +28,5 @@
 
 ### My GitHub stats
 
-![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={PedroSchulzRangel}&theme={dark})
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username={PedroSchulzRangel}&theme={dark})
+![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PedroSchulzRangel&theme=dark)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSchulzRangel&theme=dark)
