@@ -19,10 +19,12 @@
 -  Are you interested in more details of my academic background? Please contact me on [LinkedIn](https://www.linkedin.com/in/pedro-schulz-rangel/) or send an email to psrangel5002@hotmail.com. I will be pleased to answer your questions.
 
 #### I am currently learning these technologies
+
 ![image]({https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=black})
 ![image]({{https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=black})
 
 ### I've learned these technologies
+	![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image]({https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=black})
 <img scr="{https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black}"/>
 <img scr="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black}"/>
